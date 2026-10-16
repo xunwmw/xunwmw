@@ -12,11 +12,11 @@
 
 | 项目 | 一句话 | 亮点 |
 | --- | --- | --- |
-| [vuln-xiuxian](https://github.com/xunwmw/vuln-xiuxian) | AI 多 Agent 协作的漏洞挖掘知识库 | 64 条 CVE 执行序列、挖洞避坑手册、107 项报告自查清单 |
-| [shoucuo-vuln-bot](https://github.com/xunwmw/shoucuo-vuln-bot) | 自动化挖掘流水线：爬虫 → AI 判定 → 非破坏性验证 → 报告 | 安全护栏写死在代码里、结构化证据、自带烟测靶场 |
-| [onefile-vuln-lab](https://github.com/xunwmw/onefile-vuln-lab) | 零依赖单文件 Web 靶场（15+ 真实可利用漏洞） | 一键重置、只绑 127.0.0.1、含原版与加固版对照 |
-| [vuln-lab-quanjiadou](https://github.com/xunwmw/vuln-lab-quanjiadou) | 本地漏洞靶场合集（自建 + DVWA / bWAPP / Juice Shop / Vulhub） | 一键起停、只绑 127.0.0.1、附 Docker 国内镜像加速脚本 |
-| [guichu-radio](https://github.com/xunwmw/guichu-radio) | 命令行网络电台（mpv + Node.js） | 全局电台搜索、音量热调 |
+| [🧙 vuln-xiuxian](https://github.com/xunwmw/vuln-xiuxian) | 领域展开 · 漏洞修仙宇宙：AI 多 Agent 漏洞挖掘知识库 | 64 条 CVE 序列、挖洞避坑手册、107 项自查清单 |
+| [⚔️ shoucuo-vuln-bot](https://github.com/xunwmw/shoucuo-vuln-bot) | 手搓挖洞机器人：爬虫 → AI 判定 → 非破坏性验证 → 报告 | 护栏写死在代码里、结构化证据、自带烟测靶场 |
+| [🐛 onefile-vuln-lab](https://github.com/xunwmw/onefile-vuln-lab) | 异世界训练场：零依赖单文件 Web 靶场（15+ 真洞） | 一键重置、只绑 127.0.0.1、原版/加固版对照 |
+| [🍗 vuln-lab-quanjiadou](https://github.com/xunwmw/vuln-lab-quanjiadou) | 靶场全家桶：DVWA / bWAPP / Juice Shop / Vulhub 一键起 | 只绑 127.0.0.1、附 Docker 国内镜像加速脚本 |
+| [📻 guichu-radio](https://github.com/xunwmw/guichu-radio) | 鬼畜赛博收音机：命令行网络电台（mpv + Node.js） | 全局电台搜索、音量热调 |
 
 ## 原则
 
