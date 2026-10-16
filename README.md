@@ -12,10 +12,10 @@
 
 | 项目 | 一句话 | 亮点 |
 | --- | --- | --- |
-| [bounty-forge](https://github.com/xunjinghan/bounty-forge) | AI 多 Agent 协作的漏洞挖掘知识库 | 64 项 CVE 执行序列、挖洞避坑手册、107 项报告自查清单 |
-| [VulnScope](https://github.com/xunjinghan/VulnScope) | 自动化挖掘流水线：爬虫 → AI 判定 → 非破坏性验证 → 报告 | 安全护栏写死在代码里、结构化证据、自带烟测靶场 |
-| [WebVulnLab](https://github.com/xunjinghan/WebVulnLab) | 零依赖单文件 Web 靶场（15+ 真实可利用漏洞） | 一键重置、只绑 127.0.0.1、含原版与加固版对照 |
-| [NetRadio-CLI](https://github.com/xunjinghan/NetRadio-CLI) | 命令行网络电台（mpv + Node.js） | 全局电台搜索、音量热调 |
+| [bounty-forge](https://github.com/xunwmw/bounty-forge) | AI 多 Agent 协作的漏洞挖掘知识库 | 64 项 CVE 执行序列、挖洞避坑手册、107 项报告自查清单 |
+| [VulnScope](https://github.com/xunwmw/VulnScope) | 自动化挖掘流水线：爬虫 → AI 判定 → 非破坏性验证 → 报告 | 安全护栏写死在代码里、结构化证据、自带烟测靶场 |
+| [WebVulnLab](https://github.com/xunwmw/WebVulnLab) | 零依赖单文件 Web 靶场（15+ 真实可利用漏洞） | 一键重置、只绑 127.0.0.1、含原版与加固版对照 |
+| [NetRadio-CLI](https://github.com/xunwmw/NetRadio-CLI) | 命令行网络电台（mpv + Node.js） | 全局电台搜索、音量热调 |
 
 ## 原则
 
