@@ -12,11 +12,11 @@
 
 | 项目 | 一句话 | 亮点 |
 | --- | --- | --- |
-| [bounty-forge](https://github.com/xunwmw/bounty-forge) | AI 多 Agent 协作的漏洞挖掘知识库 | 64 条 CVE 执行序列、挖洞避坑手册、107 项报告自查清单 |
-| [VulnScope](https://github.com/xunwmw/VulnScope) | 自动化挖掘流水线：爬虫 → AI 判定 → 非破坏性验证 → 报告 | 安全护栏写死在代码里、结构化证据、自带烟测靶场 |
-| [WebVulnLab](https://github.com/xunwmw/WebVulnLab) | 零依赖单文件 Web 靶场（15+ 真实可利用漏洞） | 一键重置、只绑 127.0.0.1、含原版与加固版对照 |
-| [vuln-labs](https://github.com/xunwmw/vuln-labs) | 本地漏洞靶场合集（自建 + DVWA / bWAPP / Juice Shop / Vulhub） | 一键起停、只绑 127.0.0.1、附 Docker 国内镜像加速脚本 |
-| [NetRadio-CLI](https://github.com/xunwmw/NetRadio-CLI) | 命令行网络电台（mpv + Node.js） | 全局电台搜索、音量热调 |
+| [vuln-xiuxian](https://github.com/xunwmw/vuln-xiuxian) | AI 多 Agent 协作的漏洞挖掘知识库 | 64 条 CVE 执行序列、挖洞避坑手册、107 项报告自查清单 |
+| [shoucuo-vuln-bot](https://github.com/xunwmw/shoucuo-vuln-bot) | 自动化挖掘流水线：爬虫 → AI 判定 → 非破坏性验证 → 报告 | 安全护栏写死在代码里、结构化证据、自带烟测靶场 |
+| [onefile-vuln-lab](https://github.com/xunwmw/onefile-vuln-lab) | 零依赖单文件 Web 靶场（15+ 真实可利用漏洞） | 一键重置、只绑 127.0.0.1、含原版与加固版对照 |
+| [vuln-lab-quanjiadou](https://github.com/xunwmw/vuln-lab-quanjiadou) | 本地漏洞靶场合集（自建 + DVWA / bWAPP / Juice Shop / Vulhub） | 一键起停、只绑 127.0.0.1、附 Docker 国内镜像加速脚本 |
+| [guichu-radio](https://github.com/xunwmw/guichu-radio) | 命令行网络电台（mpv + Node.js） | 全局电台搜索、音量热调 |
 
 ## 原则
 
@@ -30,11 +30,11 @@
 > 如果你使用时发生了错误或者没法使用，也可以修改我的项目。申请项目合作人。
 
 每个仓库的 Issue 页都有「合作者申请」模板，想一起做哪个项目就在哪个仓库提：
-[bounty-forge](https://github.com/xunwmw/bounty-forge/issues/new?template=collaborator_request.md) ·
-[VulnScope](https://github.com/xunwmw/VulnScope/issues/new?template=collaborator_request.md) ·
-[WebVulnLab](https://github.com/xunwmw/WebVulnLab/issues/new?template=collaborator_request.md) ·
-[vuln-labs](https://github.com/xunwmw/vuln-labs/issues/new?template=collaborator_request.md) ·
-[NetRadio-CLI](https://github.com/xunwmw/NetRadio-CLI/issues/new?template=collaborator_request.md)
+[vuln-xiuxian](https://github.com/xunwmw/vuln-xiuxian/issues/new?template=collaborator_request.md) ·
+[shoucuo-vuln-bot](https://github.com/xunwmw/shoucuo-vuln-bot/issues/new?template=collaborator_request.md) ·
+[onefile-vuln-lab](https://github.com/xunwmw/onefile-vuln-lab/issues/new?template=collaborator_request.md) ·
+[vuln-lab-quanjiadou](https://github.com/xunwmw/vuln-lab-quanjiadou/issues/new?template=collaborator_request.md) ·
+[guichu-radio](https://github.com/xunwmw/guichu-radio/issues/new?template=collaborator_request.md)
 
 「申请项目合作人」就是 GitHub 的仓库协作者（Collaborator）：申请通过后你会拿到该仓库的写权限，可以建分支、提 PR、管 Issue。
 
